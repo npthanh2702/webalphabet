@@ -1,0 +1,36 @@
+.active1 > a
+{
+  font-weight: bold !important;
+  color: #146fd6 !important;
+}
+
+.fontCalculus
+{
+
+    font-size: 1.2rem !important;
+}
+
+.btn-number, .btn-del, .btn-operator
+{
+  font-size: 1.5rem;
+}
+
+#cal
+{
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+#video
+{
+  height: 600px;
+  display: none;
+}
+
+@media (max-width: 991px)
+{
+  #video
+  {
+    height: 300px;
+  }
+}

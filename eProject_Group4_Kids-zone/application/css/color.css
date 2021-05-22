@@ -1,0 +1,62 @@
+.btn-primary
+{
+  background-color: #007bff;
+}
+
+.btn-orange
+{
+  background-color: #fd7e14;
+}
+
+.btn-orange:hover
+{
+  background-color: #cf650e;
+}
+
+.btn-pink
+{
+  background-color: #e83e8c;
+}
+
+.btn-pink:hover
+{
+  background-color: #b93171;
+}
+
+.btn-purple
+{
+  background-color: #6f42c1;
+}
+
+.btn-purple:hover
+{
+  background-color: #533192;
+}
+
+.fontLetter
+{
+    font-family: 'Fredoka One', cursive !important;
+    font-size: 2rem !important;
+}
+
+#layout-study-color
+{
+  display: none;
+}
+
+span
+{
+  font-size: inherit !important;
+}
+
+#img1,#img2,#img3
+{
+  max-height: 15rem;
+}
+
+#fillColor
+{
+  display: block;
+  min-height: 10rem;
+  min-width: 10rem;
+}

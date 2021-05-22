@@ -1,0 +1,12 @@
+#alphabet, #colors, #numbers
+{
+  height: 300px;
+}
+
+@media (max-width: 991px)
+{
+  #alphabet, #colors, #numbers
+  {
+    height: 200px;
+  }
+}

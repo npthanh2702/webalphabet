@@ -1,0 +1,11 @@
+.active1 > a
+{
+  font-weight: bold !important;
+  color: #146fd6 !important;
+}
+
+.fontTable li
+{
+  font-family: 'Fredoka One', cursive !important;
+  font-size: 1.2rem !important;
+}

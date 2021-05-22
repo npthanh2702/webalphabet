@@ -1,0 +1,14 @@
+#test
+{
+  display: none;
+}
+
+.invalid-feedback
+{
+  font-size: 1.2rem !important;
+}
+
+#ok
+{
+  display: none;
+}
